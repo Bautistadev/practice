@@ -11,9 +11,9 @@
 	<groupId>com.openapi.generationCode</groupId>
 	<artifactId>practice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>main</name>
 	<description>Demo project for Spring Boot</description>
+	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

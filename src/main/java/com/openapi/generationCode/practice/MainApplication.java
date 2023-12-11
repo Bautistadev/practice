@@ -16,7 +16,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.openapi.generationCode.practice")
+@ComponentScan(basePackages = {"com.openapi.generationCode.practice"})
 @EnableAutoConfiguration
 public class MainApplication extends SpringBootServletInitializer implements CommandLineRunner {
 
